@@ -1,0 +1,7 @@
+NAME="Copland Linux"
+PRETTY_NAME="Copland Linux"
+ID="coplandlinux"
+ID_LIKE="arch"
+BUILD_ID=rolling
+HOME_URL="https://github.com/CoplandLinux"
+LOGO="coplandlinux"
