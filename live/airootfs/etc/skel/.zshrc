@@ -13,7 +13,7 @@ setopt hist_ignore_dups
 echo "Welcome to $HOST, $USER!"
 
 # Prompt
-PROMPT='%~ » '
+PROMPT='[$USER@$HOST][%~] '
 
 # Auto startx
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
